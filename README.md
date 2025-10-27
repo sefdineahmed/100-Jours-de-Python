@@ -1,11 +1,11 @@
-# 🐍 100 Jours de Python
+# 100 Jours de Python
 
 Bienvenue dans mon **challenge d'apprentissage de Python en 100 jours** !  
 Mon objectif : apprendre Python **avec rigueur et passion**, en construisant chaque jour des bases solides jusqu’à la maîtrise du langage.
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 - Apprendre **les bases fondamentales** de Python  
 - Créer **des projets concrets** chaque semaine  
@@ -15,7 +15,7 @@ Mon objectif : apprendre Python **avec rigueur et passion**, en construisant cha
 
 ---
 
-## 📅 Structure du Challenge
+## Structure du Challenge
 
 | Jour | Thème | Contenu / Projet |
 |------|--------|------------------|
@@ -29,7 +29,7 @@ Mon objectif : apprendre Python **avec rigueur et passion**, en construisant cha
 
 ---
 
-## ⚙️ Environnement de Travail
+## Environnement de Travail
 
 - **Langage :** Python 3.x  
 - **Éditeur :** VS Code / PyCharm  
@@ -40,7 +40,7 @@ Mon objectif : apprendre Python **avec rigueur et passion**, en construisant cha
 
 ---
 
-## 🧠 Ressources Utilisées
+## Ressources Utilisées
 
 - [Python Documentation Officielle](https://docs.python.org/fr/3/)
 - [W3Schools Python](https://www.w3schools.com/python/)
@@ -49,7 +49,7 @@ Mon objectif : apprendre Python **avec rigueur et passion**, en construisant cha
 
 ---
 
-## 🚀 Motivation Personnelle
+## Motivation Personnelle
 
 Je me lance ce défi pour **apprendre Python avec perfection**, pas seulement pour comprendre le langage, mais pour **devenir capable de créer, automatiser, et innover** grâce au code.  
 Chaque jour est une étape vers la maîtrise.
@@ -58,7 +58,7 @@ Chaque jour est une étape vers la maîtrise.
 
 ---
 
-## 📈 Suivi de progression
+## Suivi de progression
 
 🟩 = Terminé  
 ⬜ = À faire  
@@ -73,7 +73,7 @@ Chaque jour est une étape vers la maîtrise.
 
 ---
 
-## 💬 Me Suivre
+## Me Suivre
 
 - GitHub : [@sefdineahmed](https://github.com/sefdineahmed)  
 - Twitter / X : [@sefd18354](https://twitter.com/sefd18534)  
@@ -81,7 +81,7 @@ Chaque jour est une étape vers la maîtrise.
 
 ---
 
-## 🏁 Projet Final
+## Projet Final
 
 À la fin de ces 100 jours, je présenterai :
 - Une **application Python complète**
@@ -90,5 +90,5 @@ Chaque jour est une étape vers la maîtrise.
 
 ---
 
-> 💡 *Let's code. Every day. Without excuses.*  
+> *Let's code. Every day. Without excuses.*  
 
