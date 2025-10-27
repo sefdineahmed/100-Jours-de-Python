@@ -32,7 +32,7 @@ Mon objectif : apprendre Python **avec rigueur et passion**, en construisant cha
 ## Environnement de Travail
 
 - **Langage :** Python 3.x  
-- **Éditeur :** VS Code / PyCharm  
+- **Éditeur :** VS Code  
 - **Outils :**
   - Jupyter Notebook pour les exercices
   - Git & GitHub pour le suivi du projet
