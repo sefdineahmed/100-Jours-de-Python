@@ -75,9 +75,9 @@ Chaque jour est une étape vers la maîtrise.
 
 ## 💬 Me Suivre
 
-- GitHub : [@tonpseudo](https://github.com/sefdineahmed)  
-- Twitter / X : [@tonpseudo](https://twitter.com/sefd18534)  
-- LinkedIn : [Ton Nom](https://www.linkedin.com/in/sefdineahmed)
+- GitHub : [@sefdineahmed](https://github.com/sefdineahmed)  
+- Twitter / X : [@sefd18354](https://twitter.com/sefd18534)  
+- LinkedIn : [Ahmed Sefdine](https://www.linkedin.com/in/sefdineahmed)
 
 ---
 
