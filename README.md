@@ -23,7 +23,7 @@ Mon objectif : apprendre Python **avec rigueur et passion**, en construisant cha
 | 2 | Conditions & Boucles | if/else, for, while |
 | 3 | Fonctions | Définition, arguments, return |
 | ... | ... | ... |
-| 100 | Projet final | Application complète en Python 🚀 |
+| 100 | Projet final | Application complète en Python |
 
 > 🗓️ *Je publierai un résumé chaque jour avec mon code, mes notes et mes apprentissages.*
 
